@@ -1,0 +1,4 @@
+CFBundleName = "Build";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "Build version 1.0 Copyright 2011 Gregory Daynes";
+NSHumanReadableCopyright = "Copyright 2011 Gregory Daynes.";
